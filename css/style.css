@@ -4,7 +4,7 @@ body {
     font: 12px "Georgia Italic", "Myriad Pro Regular";
     font-style: italic;
     background: #2d3844;
-    color: #000000;
+    color: rgba(0, 0, 0, 0.37);
 }
 
 #header {
