@@ -1,7 +1,7 @@
 @import url(reset.css);
 
 body {
-    font: 12px "Georgia Italic", "Myriad Pro Regular";
+    font: 14px "Georgia Italic", "Myriad Pro Regular";
     font-style: italic;
     background: #2d3844;
     color: rgba(0, 0, 0, 0.37);
